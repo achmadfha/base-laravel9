@@ -1,4 +1,4 @@
-@extends('layouts.base', ['title' => 'Register'])
+@extends('layouts.auth', ['title' => 'Register'])
 
 @section('main')
     <div class="card card-primary">
